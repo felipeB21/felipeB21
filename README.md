@@ -1,7 +1,8 @@
 **👋 Hi, I’m Felipe Bolgar**
+
 *FullStack Developer*
 
-- Contact me
+Contact me
 > bolgarfelipe@gmail.com
 
 
